@@ -1,0 +1,7 @@
+{
+	"credit": "Made by Shiverdog using Blockbench",
+	"parent": "block/button",
+	"textures": {
+		"texture": "block/gold_block"
+	}
+}
